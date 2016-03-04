@@ -1,0 +1,14 @@
+layout_spectrum: 0.6001357
+typography_spectrum: 0.948961
+color:
+  saturation: 0.6285468
+  lightness: 0.4775532
+  brandStrength: 0.004039643
+  rhythmicContrast: 0.1582578
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: Event Center
